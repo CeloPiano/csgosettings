@@ -1,0 +1,14 @@
+-tickrate 128 +mat_queue_mode 2 +fps_max 400 -high -novid -nod3d9ex -freq 144 -processheap  -noubershader
+
+
+-tickrate 128 +mat_queue_mode 2 +fps_max 400 -high -noubershader
+
+-novid -high -tickrate 128 -nod3d9ex1 cl_forcepreload 1 -mat_queue_mode 2 -freq 240 -refresh 240 -threads 16 -fps_max 999 -fps_max_menu 999
+
+
+newest
+-novid -tickrate 128 +mat_queue_mode 2 +fps_max 400 -high  -exec Celo29.10.21 -maxplayers_override 64 +exec JT.cfg
+
+
+ulysses game series
+-novid -tickrate 128 +mat_queue_mode 2 +fps_max 300 -high  -maxplayers_override 64 +exec celonoapendice.cfg
