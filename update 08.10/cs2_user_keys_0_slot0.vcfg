@@ -1,0 +1,26 @@
+"config"
+{
+	"bindings"
+	{
+		"0"		"<unbound>"
+		"z"		"slot6"
+		"8"		"<unbound>"
+		"b"		"slot8"
+		"7"		"<unbound>"
+		"v"		"slot7"
+		"MWHEELUP"		"+jump"
+		"MWHEELDOWN"		"+jump"
+		"6"		"<unbound>"
+		"x"		"slot10"
+		"f"		"<unbound>"
+		"t"		"+lookatweapon"
+		"q"		"<unbound>"
+		"MOUSE1"		"+attack"
+		"c"		"+boing; +ding"
+		"SPACE"		"+jump"
+		"ALT"		"noclip"
+		"'"		"toggleconsole"
+		"`"		"<unbound>"
+		"MOUSE5"		"player_ping"
+	}
+}
